@@ -1,0 +1,16 @@
+C:\Users\Jhuliani\Desktop\C#\ExercicioHerancaLets\ExercicioHerancaLets\bin\Debug\net5.0\ExercicioHerancaLets.exe
+C:\Users\Jhuliani\Desktop\C#\ExercicioHerancaLets\ExercicioHerancaLets\bin\Debug\net5.0\ExercicioHerancaLets.deps.json
+C:\Users\Jhuliani\Desktop\C#\ExercicioHerancaLets\ExercicioHerancaLets\bin\Debug\net5.0\ExercicioHerancaLets.runtimeconfig.json
+C:\Users\Jhuliani\Desktop\C#\ExercicioHerancaLets\ExercicioHerancaLets\bin\Debug\net5.0\ExercicioHerancaLets.runtimeconfig.dev.json
+C:\Users\Jhuliani\Desktop\C#\ExercicioHerancaLets\ExercicioHerancaLets\bin\Debug\net5.0\ExercicioHerancaLets.dll
+C:\Users\Jhuliani\Desktop\C#\ExercicioHerancaLets\ExercicioHerancaLets\bin\Debug\net5.0\ExercicioHerancaLets.pdb
+C:\Users\Jhuliani\Desktop\C#\ExercicioHerancaLets\ExercicioHerancaLets\obj\Debug\net5.0\ExercicioHerancaLets.csproj.AssemblyReference.cache
+C:\Users\Jhuliani\Desktop\C#\ExercicioHerancaLets\ExercicioHerancaLets\obj\Debug\net5.0\ExercicioHerancaLets.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jhuliani\Desktop\C#\ExercicioHerancaLets\ExercicioHerancaLets\obj\Debug\net5.0\ExercicioHerancaLets.AssemblyInfoInputs.cache
+C:\Users\Jhuliani\Desktop\C#\ExercicioHerancaLets\ExercicioHerancaLets\obj\Debug\net5.0\ExercicioHerancaLets.AssemblyInfo.cs
+C:\Users\Jhuliani\Desktop\C#\ExercicioHerancaLets\ExercicioHerancaLets\obj\Debug\net5.0\ExercicioHerancaLets.csproj.CoreCompileInputs.cache
+C:\Users\Jhuliani\Desktop\C#\ExercicioHerancaLets\ExercicioHerancaLets\obj\Debug\net5.0\ExercicioHerancaLets.dll
+C:\Users\Jhuliani\Desktop\C#\ExercicioHerancaLets\ExercicioHerancaLets\obj\Debug\net5.0\refint\ExercicioHerancaLets.dll
+C:\Users\Jhuliani\Desktop\C#\ExercicioHerancaLets\ExercicioHerancaLets\obj\Debug\net5.0\ExercicioHerancaLets.pdb
+C:\Users\Jhuliani\Desktop\C#\ExercicioHerancaLets\ExercicioHerancaLets\obj\Debug\net5.0\ExercicioHerancaLets.genruntimeconfig.cache
+C:\Users\Jhuliani\Desktop\C#\ExercicioHerancaLets\ExercicioHerancaLets\obj\Debug\net5.0\ref\ExercicioHerancaLets.dll
